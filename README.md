@@ -1,6 +1,6 @@
 # Personal Page :information_desk_person:	
 
-:link: View my page here: https://chloeyeung.github.io/Chloe_Personal_Page/![image](https://user-images.githubusercontent.com/106992258/195913465-6f3f320a-aefd-4afd-adff-ea24d2080191.png)
+:link: View my page here: https://chloeyeung.github.io/Chloe_Personal_Page/
 
 - Welcome Card
 - Introduction
